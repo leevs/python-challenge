@@ -30,7 +30,3 @@ print "Here is a puzzle"
 what = add(age, substract(height, multiply(weight, divide(iq, 2))))
 
 print "That becomes: ", what, "Can you do it by hand ?"
-
-#180 * 50 = 500 + 400 = 900
-#74 - 900 = -826
-#35 + -826 = -791
